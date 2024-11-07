@@ -1,0 +1,14 @@
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\bin\Debug\net8.0\GestionInventario.exe
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\bin\Debug\net8.0\GestionInventario.deps.json
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\bin\Debug\net8.0\GestionInventario.runtimeconfig.json
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\bin\Debug\net8.0\GestionInventario.dll
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\bin\Debug\net8.0\GestionInventario.pdb
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.AssemblyInfoInputs.cache
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.AssemblyInfo.cs
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.csproj.CoreCompileInputs.cache
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.dll
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\refint\GestionInventario.dll
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.pdb
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\GestionInventario.genruntimeconfig.cache
+C:\Users\alici\OneDrive\Documents\GuiaLINQ\GestionInventario\obj\Debug\net8.0\ref\GestionInventario.dll
